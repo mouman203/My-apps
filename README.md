@@ -16,3 +16,16 @@ Logo and assets
 Simple UI layout
 
 👉 Folder: fikra_app/
+
+2. My profile app
+
+A simple Flutter application designed to display personal informations of a persone.
+
+🔹 Technologies: Flutter, Dart
+🔹 Features:
+
+-Personel pic and icons 
+
+-Link to email & phone & instagram app
+
+👉 Folder: my_profile/
