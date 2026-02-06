@@ -1,0 +1,13 @@
+.git
+.gitignore
+.dart_tool
+.packages
+build
+.idea
+.vscode
+android/.gradle
+android/local.properties
+ios/Pods
+ios/.symlinks
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
